@@ -7,16 +7,14 @@ function About() {
     <div>
       <p className="content is-medium">Technical Writer and Something-of-a Full Stack Developer</p>
       <hr />
-      <img className="my-pic" src={process.env.PUBLIC_URL + '/img/profile.jpg'} alt="Emily Necciai Mayeski"/>
+      <img className="my-pic" src={process.env.PUBLIC_URL + '/img/profile.jpg'} alt="Tristin Nguyen"/>
       <p className="content is-italic mt-4">
-        I'm Emily, a technical writer studying the full stack to better my work
-        as a technical writer in the tech and SaaS fields.
+        I'm Tristin, a new bootcamp grad with a background in animal science pursing a career in software development. I am a highly effective communicator and
+        understand the importance of working with others
       </p>
       <p className="content">
-        I always act as a product manager for learning resources, which guides
-        users to what they need in the moment, but also enable them to explore
-        content on their terms using video, audio, documentation, and so much
-        more in an advanced learning ecosystem.
+        I have a passion for learning and working with others to create a better and more positive work environment.
+        In my previous field, I developed many skills in communicating not only with my peers but also with upper management in an effective manner.
       </p>
     </div>
   );
