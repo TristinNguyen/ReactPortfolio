@@ -5,9 +5,9 @@ import React from "react";
 function About() {
   return (
     <div>
-      <p className="content is-medium">Technical Writer and Something-of-a Full Stack Developer</p>
+      <p className="content is-medium">Highly adaptive learner and new Full-stack Developer</p>
       <hr />
-      <img className="my-pic" src={process.env.PUBLIC_URL + '/img/profile.jpg'} alt="Tristin Nguyen"/>
+      <img className="my-pic" src={process.env.PUBLIC_URL + '/images/profile.jpg'} alt="Tristin Nguyen"/>
       <p className="content is-italic mt-4">
         I'm Tristin, a new bootcamp grad with a background in animal science pursing a career in software development. I am a highly effective communicator and
         understand the importance of working with others

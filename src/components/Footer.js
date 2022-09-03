@@ -20,6 +20,7 @@ function Footer() {
             LinkedIn
           </a>{" "}
           |{" "}{" "}
+          <a>Nguye501@msu.edu</a>
         </p>
       </div>
     </footer>
