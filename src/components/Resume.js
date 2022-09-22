@@ -26,8 +26,8 @@ function Resume() {
         <hr />
         <ul>
             <li>HTML, CSS, Javascript</li>
-            <li>OpenAPI, YAML, JSON</li>
-            <li>React, Next.js, Hugo</li>
+            <li>JSON</li>
+            <li>React, Next.js</li>
             <li>Markdown</li>
             <li>Git</li>
             <li>Github Repo Management</li>
