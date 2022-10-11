@@ -16,7 +16,7 @@ const projects = [
     id: 1,
     title: "WhatsForDinner",
     languages: "html, CSS, server-side API, js",
-    image: "/images/Whatsfordinner.png",
+    image: "/images/Whatsfordinner.PNG",
     description: "Allows you to serach for recipes based on an ingredient or allows to randomize a cocktail",
     repo: "https://github.com/TristinNguyen/Whats-for-Dinner",
     live: "https://tristinnguyen.github.io/Whats-for-Dinner/",
